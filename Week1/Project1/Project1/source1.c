@@ -4,7 +4,7 @@ int main(void) {
 
 	printf("Hellow world!");
 
-	return 1;
+	return 0;
 
 }
 

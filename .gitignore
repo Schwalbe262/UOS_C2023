@@ -1,0 +1,9 @@
+# .gitignore
+# ignore All
+*
+!*/
+
+# Allow list
+!.gitignore
+!.gitattributres
+!*.c

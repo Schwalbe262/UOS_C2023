@@ -2,7 +2,10 @@
 
 int main(void) {
 
-	printf("Hello world!");
+	printf("Hello UOS!");
+	printf("Hello ECE!");
 
 	return 0;
 }
+
+
